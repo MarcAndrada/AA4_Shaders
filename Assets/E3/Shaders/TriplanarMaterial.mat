@@ -28,6 +28,14 @@ Material:
         m_Texture: {fileID: 2800000, guid: 0cf05d65b36012d47975595e012e9b08, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _ApplyTriplanarTexture_d884f171f2184e0d8c357e4d4c84ca88_NormalMap_1435077447_Texture2D:
+        m_Texture: {fileID: 2800000, guid: c1df15bf85c381542927335aba66d6cd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomTriplanar_d884f171f2184e0d8c357e4d4c84ca88_Albedo_3911213292_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Mask:
         m_Texture: {fileID: 2800000, guid: 912714b23fd403243bcb14d1fa295c52, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -50,13 +58,22 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Blend: 7
+    - _Blend: 6
+    - _Metalic: 0
+    - _NormalStrength: 3
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SnowHardness: 20
+    - _Smoothness: 0
+    - _SnowHardness: 1
+    - _SnowMetalic: 0.2
+    - _SnowNormalStrength: 31.6
+    - _SnowSmoothness: 0.2
     - _SnowSoftness: 80
+    - _SnowStart: 0.295
+    - _Tile: 1.5
     m_Colors:
-    - _Color: {r: 0.2735849, g: 0.18431301, b: 0.08388217, a: 1}
+    - _Color: {r: 0.42352942, g: 0.3254902, b: 0.28235295, a: 1}
+    - _SnowColor: {r: 0.6603774, g: 0.6603774, b: 0.6603774, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &6711986560704023110
 MonoBehaviour:

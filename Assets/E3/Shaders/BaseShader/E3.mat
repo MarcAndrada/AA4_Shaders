@@ -25,7 +25,7 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
-  - _DEBUG_TRIPLANAR
+  - _DEBUG_DISABLED
   m_InvalidKeywords: []
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
@@ -33,7 +33,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
+  m_LockedProperties: _SnowNormalScale
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -63,8 +63,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Blend: 10
-    - _DEBUG: 1
+    - _Blend: 1
+    - _DEBUG: 0
     - _NormalStrength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -72,11 +72,11 @@ Material:
     - _SnowMax: 0.3
     - _SnowMetallic: 0
     - _SnowMin: 0.29
-    - _SnowNormalScale: 100
-    - _SnowNormalStrength: 0.25
+    - _SnowNormalScale: 47.2
+    - _SnowNormalStrength: 167.29
     - _SnowSmoothness: 0
-    - _SnowSoftness: 0.123
-    - _SnowStart: 0.964
+    - _SnowSoftness: 0.725
+    - _SnowStart: 0.344
     - _Tile: 0.75
     m_Colors:
     - _Color: {r: 0.4245283, g: 0.32635266, b: 0.28301886, a: 1}
