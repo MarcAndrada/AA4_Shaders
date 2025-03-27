@@ -75,8 +75,8 @@ Material:
     - _SnowNormalScale: 47.2
     - _SnowNormalStrength: 167.29
     - _SnowSmoothness: 0
-    - _SnowSoftness: 0.725
-    - _SnowStart: 0.34
+    - _SnowSoftness: 0.24
+    - _SnowStart: 0.15
     - _Tile: 0.75
     m_Colors:
     - _Color: {r: 0.4245283, g: 0.32635266, b: 0.28301886, a: 1}

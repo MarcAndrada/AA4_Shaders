@@ -58,22 +58,22 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Blend: 15
+    - _Blend: 14
     - _Metalic: 0
-    - _NormalStrength: 2
+    - _NormalStrength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 0
-    - _SnowHardness: 1
-    - _SnowMetalic: 0.3
+    - _SnowHardness: 0.2
+    - _SnowMetalic: 0
     - _SnowNormalStrength: 31.6
-    - _SnowSmoothness: 0.3
-    - _SnowSoftness: 80
-    - _SnowStart: 0.13
+    - _SnowSmoothness: 0
+    - _SnowSoftness: 0.14
+    - _SnowStart: 0
     - _Tile: 1.5
     m_Colors:
     - _Color: {r: 0.42352942, g: 0.3254902, b: 0.28235295, a: 1}
-    - _SnowColor: {r: 0.6603774, g: 0.6603774, b: 0.6603774, a: 1}
+    - _SnowColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &6711986560704023110
 MonoBehaviour:
