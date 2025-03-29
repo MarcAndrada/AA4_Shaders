@@ -65,15 +65,15 @@ Material:
     - _QueueOffset: 0
     - _Smoothness: 0
     - _SnowHardness: 0.2
-    - _SnowMetalic: 0
+    - _SnowMetalic: 0.02
     - _SnowNormalStrength: 31.6
-    - _SnowSmoothness: 0
+    - _SnowSmoothness: 0.02
     - _SnowSoftness: 0.14
-    - _SnowStart: 0
+    - _SnowStart: 0.18
     - _Tile: 1.5
     m_Colors:
     - _Color: {r: 0.42352942, g: 0.3254902, b: 0.28235295, a: 1}
-    - _SnowColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SnowColor: {r: 0.9490196, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &6711986560704023110
 MonoBehaviour:

@@ -70,11 +70,11 @@ Material:
     - _QueueOffset: 0
     - _SnowContrast: 0
     - _SnowMax: 0.3
-    - _SnowMetallic: 0
+    - _SnowMetallic: 0.08
     - _SnowMin: 0.29
     - _SnowNormalScale: 47.2
     - _SnowNormalStrength: 167.29
-    - _SnowSmoothness: 0
+    - _SnowSmoothness: 0.16
     - _SnowSoftness: 0.24
     - _SnowStart: 0.15
     - _Tile: 0.75
