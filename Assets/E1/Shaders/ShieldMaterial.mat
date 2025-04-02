@@ -50,7 +50,7 @@ Material:
     - _ScanLineStep: 0.2
     - _ScanLines: 50
     m_Colors:
-    - _Color: {r: 0, g: 0.72536707, b: 5.9921575, a: 1}
+    - _Color: {r: 0, g: 1.7773987, b: 5.992157, a: 1}
     - _ScrollDirection: {r: 0, g: 0.3, b: 0, a: 0}
     - _TextureTiling: {r: 8, g: 5, b: 0, a: 0}
   m_BuildTextureStacks: []
