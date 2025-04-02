@@ -47,10 +47,10 @@ Material:
     - _FoamCoastDepth: 5
     - _FoamContrast: 5
     - _FoamDistortionAmount: 0.2
-    - _FoamDistortionScale: 2
+    - _FoamDistortionScale: 60
     - _FoamLevel: 50
     - _NormalAnimationRadius: 5
-    - _NormalAnimationSpeed: 0.1
+    - _NormalAnimationSpeed: 0.3
     - _NormalScale: 0.25
     - _NormalStrength: 1
     - _QueueControl: 0
